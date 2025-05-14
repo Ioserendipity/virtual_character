@@ -1,0 +1,10 @@
+{
+    "newEridu": {
+        "name": "新艾利都",
+        "data_dir": "data_worlds\\newEridu"
+    },
+    "Teyvat": {
+        "name": "提瓦特世界",
+        "data_dir": "data_worlds\\Teyvat"
+    }
+}
